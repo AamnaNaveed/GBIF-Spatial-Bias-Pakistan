@@ -70,6 +70,22 @@ GitHub: [@AamnaNaveed](https://github.com/AamnaNaveed)
 
 
 
+## Data Visualization
+
+### Records by Province
+![Province Records](chart_province_records.png)
+
+### Top 10 Plant Families
+![Top Families](chart_top_families.png)
+
+
+
+
+
+
+
+
+
 
 ## Spatial Visualization
 
