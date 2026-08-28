@@ -23,10 +23,7 @@ Pakistan is a biodiverse country spanning multiple ecoregions — from the Himal
 | **Second dominant family** | Fabaceae (15,548 records) |
 
 **Spatial bias:** 75% of all plant occurrence data originates from a single province (Punjab), leaving vast regions like Balochistan and Sindh severely underrepresented.
-
-**Taxonomic bias:** Grasses (Poaceae) and legumes (Fabaceae) dominate the dataset, while many endemic families remain undocumented.
-**Spatial visualization:** reveals extreme clustering in the Punjab region, with dense hotspots around Lahore, Faisalabad, and Rawalpindi. Northern areas (Gilgit-Baltistan) and western regions (Balochistan) show significant data gaps despite high biodiversity value.
----
+Spatial visualization reveals extreme clustering in the Punjab region, with dense hotspots around Lahore, Faisalabad, and Rawalpindi. Northern areas (Gilgit-Baltistan) and western regions (Balochistan) show significant data gaps despite high biodiversity value.
 
 ## Methodology
 
@@ -68,6 +65,22 @@ This analysis is published on Zenodo:
 BSc Biotechnology, Islamia University of Bahawalpur  
 Research interests: Biodiversity informatics, spatial ecology, computational biology  
 GitHub: [@AamnaNaveed](https://github.com/AamnaNaveed)
+
+
+
+
+
+
+## Spatial Visualization
+
+### Occurrence Points Map
+![Occurrence Points](map_1_occurrence_points.png)
+
+### Density Heatmap
+![Density Heatmap](map_2_hexbin_density.png)
+
+### Points on Pakistan Boundary
+![Pakistan Base Map](map_3_pakistan_base.png)
 
 ---
 
