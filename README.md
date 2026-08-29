@@ -50,6 +50,13 @@ Spatial visualization reveals extreme clustering in the Punjab region, with dens
 | `map_2_hexbin_density.png` | Hexbin heatmap showing spatial concentration |
 | `map_3_pakistan_base.png` | Points overlaid on Pakistan country boundary |
 ---
+| `week3_sdm_data.R` | SDM data preparation script for Prosopis cineraria |
+| `prosopis_cineraria_global.csv` | 413 global occurrence records for Khejri |
+| `khejri_presence_with_climate.csv` | Presence points with 19 bioclimatic variables |
+| `khejri_background_with_climate.csv` | Background (pseudo-absence) points with climate |
+| `khejri_global_distribution.png` | Global distribution map of Khejri |
+| `khejri_presence_background.png` | Presence vs background points visualization |
+
 
 ## Citation
 
@@ -98,6 +105,16 @@ GitHub: [@AamnaNaveed](https://github.com/AamnaNaveed)
 ### Points on Pakistan Boundary
 ![Pakistan Base Map](map_3_pakistan_base.png)
 
+
+
+
+## Species Distribution Modeling (In Progress)
+
+**Target species:** *Prosopis cineraria* (Khejri / Tree of Life)  
+**Status:** Data preparation complete (Week 3 of 6)  
+**Next:** MaxEnt modeling and suitability mapping (Week 4)
+
+This project uses 413 global occurrence records and 19 WorldClim bioclimatic variables to predict the potential distribution of Khejri across Pakistan.
 ---
 
 ## License
