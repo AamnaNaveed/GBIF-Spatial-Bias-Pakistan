@@ -117,6 +117,13 @@ GitHub: [@AamnaNaveed](https://github.com/AamnaNaveed)
 This project uses 413 global occurrence records and 19 WorldClim bioclimatic variables to predict the potential distribution of Khejri across Pakistan.
 ---
 
+### Khejri Global Distribution
+![Khejri Global Distribution](khejri_global_distribution.png)
+
+### Presence vs Background Points
+![Khejri Presence Background](khejri_presence_background.png)
+
+
 ## License
 
 This project is released under the MIT License. Data sourced from GBIF under CC0 1.0.
