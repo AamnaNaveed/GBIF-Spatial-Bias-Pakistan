@@ -123,6 +123,13 @@ This project uses 413 global occurrence records and 19 WorldClim bioclimatic var
 ### Presence vs Background Points
 ![Khejri Presence Background](khejri_presence_background.png)
 
+## Related Work
+
+This project is part of a broader research portfolio on Pakistan's biodiversity data quality:
+
+- **Data Quality Audit** (2026): [DOI: 10.5281/zenodo.22199329](https://doi.org/10.5281/zenodo.22199329) — Automated audit of 195,453 GBIF plant records; 39.3% flagged with spatial errors.
+- **Species Distribution Model** (2026): [DOI: 10.5281/zenodo.22174696](https://doi.org/10.5281/zenodo.22174696) — SDM for *Prosopis cineraria* using WorldClim bioclimatic variables.
+
 
 ## License
 
